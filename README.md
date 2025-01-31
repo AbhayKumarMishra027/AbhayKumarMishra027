@@ -1,6 +1,6 @@
 Hi there, I'm Abhay Kumar 👋
 
-Welcome to my GitHub! I'm a developer currently working with Python, SQL, and HTML. I’m passionate about coding, problem-solving, and building useful projects.
+Welcome to my GitHub! I'm a student currently working with Python, SQL, and HTML. I’m passionate about coding, problem-solving, and building useful projects.
 
 🚀 What I'm working on:
 
