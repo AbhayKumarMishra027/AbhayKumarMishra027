@@ -32,12 +32,6 @@ I'm a student who's into coding, solving problems, and building useful stuff tha
 
 ---
 
-## 📈 A Quick Snapshot
-
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-kumar&show_icons=true&theme=default)
-
----
-
 ## 🔗 Let's Connect
 
 - **Instagram:** [@abhay_mishra27](https://www.instagram.com/abhay_mishra27/)  
